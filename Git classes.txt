@@ -1,0 +1,52 @@
+Git classes:
+---------------
+
+installation:
+--------------------
+
+create github account at https://github.com/login
+ 
+ choose unique username---example sandhyapokuru
+
+git download from  https://git-scm.com/downloads
+
+
+install the above and open the command prompt and run follwing commands.
+
+git version
+
+to set username:
+------------------
+git config --global user.name"sandhyapokuru"
+
+to set user email
+--------------
+
+git config --global user.email "sandhyau1018@gmail.com"
+
+
+to run :
+--------------
+1.git init
+
+
+2.>git clone https://github.com/sandhyapokuru/sandhya2.git
+3.>git add --all
+
+4.>git commit -m "tesing my first commit"
+
+5>git push origin main
+
+for every changes we have to give above 3,4,5 commands.
+
+GitHub:it is a cloud based space where we can maintain. our entire application.
+-------
+
+GITSOFTWARE:
+-------------
+
+it is maintaing user credentialsi.e who is pushing the code to github.
+
+
+
+
